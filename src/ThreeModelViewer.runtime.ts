@@ -1,6 +1,6 @@
 /// <reference path="three_renderer/ModelRenderer.ts" />
 
-import { ThingworxRuntimeWidget, TWService, TWProperty } from 'typescriptwebpacksupport'
+import { ThingworxRuntimeWidget, TWProperty } from 'typescriptwebpacksupport/widgetRuntimeSupport'
 import { ModelRenderer, RendererOptions, PositionOptions } from './three_renderer/ModelRenderer';
 
 @ThingworxRuntimeWidget
